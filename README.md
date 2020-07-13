@@ -1,6 +1,6 @@
-### Chanchal Bansal✨
+### Hi 👋 I'm Chanchal Bansal✨
 
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Chanchal1603.visitor-badge)](#)
 - 🔭 I’m currently working on Flutter and Machine learning/Artificial Intelligence.
 - 🌱 I’m trying to convert my Ideas in the form of such beautiful and cool flutter applications💜
 - 👯 I’m looking to collaborate on some open source projects.
@@ -9,4 +9,7 @@
 - Tadaa🎇, Here you can reach out to me😇 [linkedin](https://www.linkedin.com/in/chanchal-bansal-4b6778193/) , [twitter](https://twitter.com/Chancha40039094) , [Email](https://mail.google.com/mail/u/1/#inbox)
 - 😄 I'm a women who's interested in technology👩‍💻.
 - ⚡ Sometimes you'll find me in different organisations as a **Mentor** and as a **Participant**  Both 🌺
+
+[![twitter Follow](https://img.shields.io/twitter/follow/Chancha40039094?style=social)](https://twitter.com/Chancha40039094)
+ 
 
