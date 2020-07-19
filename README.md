@@ -1,6 +1,9 @@
 ### Hi 👋 ,I'm Chanchal Bansal✨
+<a href="https://github.com/Chanchal1603/github-visitors-counter">
+    <img src="https://komarev.com/ghpvc/?username=Chanchal1603&">
+</a>
 <img src="https://img.shields.io/badge/made%20with-love-blue.svg" alt="made with love">
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Chanchal1603.visitor-badge)](#)
+
 - 🔭 I’m currently working on Flutter and Machine learning/Artificial Intelligence.
 - 🌱 I’m trying to convert my Ideas in the form of such beautiful and cool flutter applications💜
 - 👯 I’m looking to collaborate on some open source projects.
