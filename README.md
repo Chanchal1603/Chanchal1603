@@ -15,4 +15,9 @@
 
 [![twitter Follow](https://img.shields.io/twitter/follow/Chancha40039094?style=social)](https://twitter.com/Chancha40039094)
  
-
+<div>
+<p align="left">
+  <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chanchal1603&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
+  
+</p></div>
