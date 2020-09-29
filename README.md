@@ -2,7 +2,7 @@
 <a href="https://github.com/Chanchal1603/github-visitors-counter">
     <img src="https://komarev.com/ghpvc/?username=Chanchal1603&">
 </a>
-<img src="https://img.shields.io/badge/made%20with-love-blue.svg" alt="made with love">
+<img src="https://img.shields.io/badge/made%20with-love-blue.svg" alt="made with 💖">
 
 - 🔭 I’m currently working on Flutter and Machine learning/Artificial Intelligence.
 - 🌱 I’m trying to convert my Ideas in the form of such beautiful and cool flutter applications💜
@@ -11,6 +11,7 @@
 - 💬 You can Ask me about the topics of my interested fields and for that you're thinking how can you reach to me? right!!😅
 - Tadaa🎇, Here you can reach out to me😇 **[linkedin](https://www.linkedin.com/in/chanchal-bansal-4b6778193/) , [twitter](https://twitter.com/Chancha40039094) , [Email](https://mail.google.com/mail/u/1/#inbox)**
 - 😄 I'm a women who's interested in technology👩‍💻.
+- 😁 I used to participate in Hackathons to build some cool projects and to explore new technology with the team💻.
 - ⚡ Sometimes you'll find me in different organisations as a **Mentor** and as a **Participant**  Both 🌺
 
 [![twitter Follow](https://img.shields.io/twitter/follow/Chancha40039094?style=social)](https://twitter.com/Chancha40039094)
