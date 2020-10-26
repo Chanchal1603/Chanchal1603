@@ -14,7 +14,7 @@
 - 😁 I used to participate in Hackathons to build some cool projects and to explore new technology with the team💻.
 - ⚡ Sometimes you'll find me in different organisations as a **Mentor** and as a **Participant**  Both 🌺
 
-[![twitter Follow](https://img.shields.io/twitter/follow/Chancha40039094?style=social)](https://twitter.com/Chancha40039094)
+[![twitter Follow](https://img.shields.io/twitter/follow/chanchalbansall?style=social)](https://twitter.com/Chancha40039094)
  
 <div>
 <p align="left">
